@@ -3,4 +3,5 @@ The goal of this project is to implement a program that solves a system of linea
 	1.	Basic method (without choosing the maximum element);
 	2.	Column-wise pivoting (choosing the maximum element in the current column);
 	3.	Full pivoting (choosing the maximum element in the remaining submatrix).
- Project also allows to choose either you want to use prepared data or input the matrix by yourself
+ Project also allows to choose either you want to use prepared data or input the matrix by yourself.
+ The functions that are used in project are named in Polish
